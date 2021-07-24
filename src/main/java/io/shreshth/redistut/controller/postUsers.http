@@ -1,0 +1,59 @@
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "Raghav",
+  "emailId": "Raghav@gmail.com",
+  "phoneNo": "3085729"
+}
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "Himesh",
+  "emailId": "Himesh@gmail.com",
+  "phoneNo": "01385"
+}
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "Rishab",
+  "emailId": "Rishab@gmail.com",
+  "phoneNo": "1398449"
+}
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "Amit",
+  "emailId": "Amit@gmail.com",
+  "phoneNo": "1320857"
+}
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "priyanshu",
+  "emailId": "priyanshu@gmail.com",
+  "phoneNo": "2408235"
+}
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "userName": "Shoray",
+  "emailId": "Shoray@gmail.com",
+  "phoneNo": "374295"
+}
+
